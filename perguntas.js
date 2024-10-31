@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Arte',
-    'O que é Arte Contemporânea?'
-    'É uma tendência artística com expressões inovadoras'
+    'O que é Arte Contemporânea?',
+    'É uma tendência artística com expressões inovadoras',
 )
 
